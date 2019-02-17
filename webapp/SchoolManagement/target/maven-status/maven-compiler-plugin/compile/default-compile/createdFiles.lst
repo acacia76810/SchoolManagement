@@ -1,0 +1,4 @@
+com/school/configuration/AppConfig.class
+com/school/modal/Student.class
+com/school/configuration/WebConfig.class
+com/school/configuration/MyWebAppInitilizer.class
